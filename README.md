@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shail2512-lm10
-- 👀 I’m interested in data science, computer vision and robotics
+- 👀 I’m interested in Generative AI, NLP, Computer vision
 - 🌱 I’m currently learning more about these areas
 - 💞️ I’m looking to collaborate on project related to this areas.
 
