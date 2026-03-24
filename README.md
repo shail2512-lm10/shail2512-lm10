@@ -5,11 +5,15 @@
 Building production-grade AI systems with a strong foundation in model internals, efficiency, and scalability.
 
 ### Focus Areas:
-Large Language Models (LLMs) — RAG, fine-tuning, tokenization
-Applied AI Research — quantization, efficient training & inference
-Scalable ML Systems — distributed pipelines, orchestration
-MLOps — deployment, CI/CD, experiment tracking
-Tech Stack
+Large Language Models (LLMs): RAG, fine-tuning, tokenization
+
+Applied AI Research: quantization, efficient training & inference
+
+Scalable ML Systems: distributed pipelines, orchestration
+
+MLOps: deployment, CI/CD, experiment tracking
+
+### Tech Stack
 
 Languages:
 `Python` • `SQL`
